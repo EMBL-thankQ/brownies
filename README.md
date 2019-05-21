@@ -1,5 +1,6 @@
 # A recipe for the most delicious brownies you have ever tasted
 
+## Ingredients
 Make sure to enjoy!
 
 - milk chocolate
@@ -9,8 +10,10 @@ Make sure to enjoy!
 - sugar
 - salt
 
+## Instructions
 Split the egg white and egg yolk.
 Mix the egg yolk.
+add sugar and whisk until it is nearly white.
 
 An example repository for introductory **Git** training
 
