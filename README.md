@@ -1,4 +1,15 @@
 # A recipe for the most delicious brownies you have ever tasted
+
+- milk chocolate
+- dark chocalate
+- butter
+- eggs
+- sugar
+- salt
+
+Split the egg white and egg yolk.
+Mix the egg yolk.
+
 An example repository for introductory **Git** training
 
 <!-- HTML comment -->
