@@ -8,4 +8,6 @@ a bit oil or butter
 melt the butter
 melt the chocolate
 
+A portion for 8 or more people, ideal for birthday party!
+
 
