@@ -1,6 +1,8 @@
 # A recipe for the most delicious brownies you have ever tasted
 An example repository for introductory **Git** training
 
+<!HTML
+
 - you can add bullets
   - and sub-bullets
 - [and  links](https://crm.embl.de)
