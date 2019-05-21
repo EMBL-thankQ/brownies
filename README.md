@@ -9,6 +9,7 @@ An example repository for introductory **Git** training
 
 `code can be highlighted with backticks`
 
-```
+```Python
 for file in filenames:
    print(file)
+```
